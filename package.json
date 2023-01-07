@@ -1,0 +1,13 @@
+{
+	"title": "hackathon-comunicode-madre-cabrini",
+	"name": "hackathon-comunicode-madre-cabrini",
+	"version": "1.0.0",
+	"description": "Projeto desenvolvido durante o Hackathon ComuniCode 2018, realizado pela http://monitoratec.com.br/ para o projeto social Madre Cabrini.",
+	"authors": "Grupo 4 - Alex Galhardo, Thiago Toledo e Marcos Paone",
+	"dependencies": {
+		"bootstrap": "4.1.1",
+		"font-awesome": "4.7.0",
+		"jquery": "3.3.1",
+		"vide": "^0.5.1"
+	}
+}
